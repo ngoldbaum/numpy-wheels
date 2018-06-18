@@ -24,7 +24,7 @@ environment:
       WHEELHOUSE_UPLOADER_SECRET:
         secure:
             9s0gdDGnNnTt7hvyNpn0/ZzOMGPdwPp2SewFTfGzYk7uI+rdAN9rFq2D1gAP4NQh
-      BUILD_COMMIT: e5fdd65906f6606309dcce6bfdabddd8cbbe394f
+      BUILD_COMMIT: 28b83c7d99b6480b4082e95c97d98afed581461e
       DAILY_COMMIT: master
 
   matrix:
